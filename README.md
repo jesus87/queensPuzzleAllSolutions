@@ -1,5 +1,5 @@
 # Eight Queens Puzzle Find All Solutions
-my solution for eight Queens Puzzle , using BackTracking Algorithm written in python 3.6.
+my solution for eight Queens Puzzle finding all solutions, using BackTracking Algorithm written in python 3.6.
 
 * Using Yaml File For Database configuration file (server,port,databaseName,etc..)
 * Postgres SQL For storaging of results
