@@ -7,14 +7,12 @@ my solution for eight Queens Puzzle finding all solutions, using BackTracking Al
 # Main File
 the main file is main.py, for running only execute main.py
 
-# The Problem
-![QueensPuzzle](https://github.com/jesus87/queenspuzzle/blob/master/solution.png)
 
 # BackTracking Algorithm
-![QueensPuzzle](https://github.com/jesus87/queenspuzzle/blob/master/solution.png)
+![QueensPuzzle](https://raw.githubusercontent.com/jesus87/queensPuzzleAllSolutions/master/backtracking.png)
 
 # Plotter of the Solution, example for 8 queens
-![QueensPuzzle](https://github.com/jesus87/queenspuzzle/blob/master/solution.png)
+![QueensPuzzle](https://raw.githubusercontent.com/jesus87/queensPuzzleAllSolutions/master/solutionN.png)
 
 # Results of the Solution on Postgress
-![QueensPuzzleResult](https://github.com/jesus87/queenspuzzle/blob/master/querypostgres.png)
+![QueensPuzzleResult](https://raw.githubusercontent.com/jesus87/queensPuzzleAllSolutions/master/querypostgresN.png)
